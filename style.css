@@ -1,0 +1,11 @@
+.Texto{
+    position: absolute;
+    left: 42%;
+    top: 55%;
+    display: block;
+}
+.butao{
+    position: absolute;
+    left: 110%;
+    top: 0%;
+}
